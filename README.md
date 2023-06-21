@@ -1,2 +1,5 @@
-﻿# ToTTo_Yubi
-push your co-lab notebooks to other branches and mantain a readme file in your branch
+Building, testing and running 
+
+Pushing all the co-lab nootbooks and datasets here
+
+current main file --> yubi_project0.ipynb
