@@ -1,2 +1,5 @@
 ﻿# ToTTo_Yubi
-push your co-lab notebooks to other branches and mantain a readme file in your branch
+ 
+- make your own testing & working branch
+- push your co-lab notebooks and datasets to that branches
+- mantain a readme file in your branch
